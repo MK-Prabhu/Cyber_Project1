@@ -4,8 +4,7 @@ Cybersecurity Course Project 1
 
 The files in this repository were used to configure the network depicted below.
 
-https://drive.google.com/file/d/1uWvzUPnojZxWkQw2A5SPn00iTqJ15C2A/view?usp=sharing
-
+Images/https://github.com/MK-Prabhu/Cyber_Project1
 These files have been tested and used to generate a live ELK deployment on Azure. These can be used to recreate the entire deployment pictured above. 
 
  - elk.yml 
